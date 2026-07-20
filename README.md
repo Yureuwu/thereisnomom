@@ -7,4 +7,7 @@ Your mother is going to work, or so she said. Now you're Tommy, do all your home
 
   ## game features
 * lateral displacement mechanics.
-* 
+* **Psychological Horror & Story-Driven:** Multiple endings based on your choices and sanity levels.
+* **Sanity System:** High anxiety levels cause visual distortions and hallucinations.
+* **Dynamic Enemy AI:** The "Mother" roams and interrogates you—hide or give the right answers to survive.
+* **pixel art :** Immersive atmospheric visuals and retro aesthetic.
